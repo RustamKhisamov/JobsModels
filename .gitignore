@@ -1,0 +1,8 @@
+# macOS files
+*.DS_Store
+
+# Specific user data
+**/xcuserdata
+
+# Build
+build

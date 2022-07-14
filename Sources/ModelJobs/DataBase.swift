@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import RealmSwift
+import Realm
 
 final class DataBase<T: Object> {
     private let realm = try? Realm()
